@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/Arsh1507/">
   <img align="left" alt="Akshat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/Devansh15702227">
+<a href="https://twitter.com/Arsh1507">
   <img align="left" alt="Akshat's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a> 
 
