@@ -25,10 +25,10 @@
 <br />
 <br />
 
-![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=devanshagar783&show_icons=true&theme=tokyonight)
+![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=Arsh150701&show_icons=true&theme=tokyonight)
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshagar783&theme=tokyonight&&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh150701&theme=tokyonight&&layout=compact">
 
 <p align="center"> 
   Visitor count<br>
