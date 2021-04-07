@@ -1,4 +1,5 @@
-### Hi there, I'm Akshat 
+### Hello there!
+###### Hint: Reply with "General Kenobi"
 
 
 <a href="https://www.linkedin.com/in/srivastavaakshat15/">
@@ -18,14 +19,13 @@
 
 - 🎓 CSE Undergrad student.
 - 📱 Android Frontend developer.
-- 👨‍💻 Mostly working on Android, Java!
-- 👨‍💻 Learning React Native
+- 👨‍💻 Experience with Android Studio and React Native.
 - ⚡ Fun fact: I love watching Anime, going on trekking and playing cricket & badminton.
 
 <br />
 <br />
 
-![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=Arsh150701&show_icons=true&theme=tokyonight)
+![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=Arsh150701&show_icons=true&theme=tokyonight)
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh150701&theme=tokyonight&&layout=compact">
